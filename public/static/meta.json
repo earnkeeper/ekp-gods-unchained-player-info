@@ -5,5 +5,6 @@
   "github": "https://github.com/earnkeeper/ekp-gods-unchained-player-info",
   "image": "/static/market.jpg",
   "mainPage": "collection",
-  "description": "What is your collection value? Want to browse cards as a power user? This is the plugin"
+  "description": "What is your collection value? Want to browse cards as a power user? This is the plugin",
+  "features": ["Player Collection", "NFT Browser"]
 }
