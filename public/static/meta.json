@@ -3,7 +3,7 @@
   "gameId": "gods-unchained",
   "name": "Player Info",
   "github": "https://github.com/earnkeeper/ekp-gods-unchained-player-info",
-  "image": "/static/market.jpeg",
+  "image": "/static/market.jpg",
   "mainPage": "collection",
   "description": "What is your collection value? Want to browse cards as a power user? This is the plugin"
 }
